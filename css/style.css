@@ -94,7 +94,7 @@ div#carocelimg{
   height: 100%;
   display: grid;
   align-items: flex-end;
-  background: url('../assets/Xyah.jpg');
+  background: url('../assets/Xyah.JPG');
   background-size: cover;
 }
 
@@ -193,7 +193,7 @@ div#galhead{
 }
 
 #pic1{
-  background: url('../assets/Xyah.jpg');
+  background: url('../assets/Xyah.JPG');
   background-size: cover;
   background-position: center;
 }
